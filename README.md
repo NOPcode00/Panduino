@@ -14,6 +14,6 @@
 ##
 ## Like the Panduino?
 ### Why not donate $1 and buy me a coffee?
-### Click here [DONATE](https://nopcode00.blogspot.ca/) to make a contribution through paypal.
-
+### Click here [DONATE](https://nopcode00.blogspot.ca/) to make a contribution through PayPal.
+# 
 #Thanks. 
