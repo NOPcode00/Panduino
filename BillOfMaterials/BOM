@@ -1,0 +1,53 @@
+Bill of Materials
+
+Panduino V1.2 
+
+All components are through hole except for U1 (3.3V regulator)
+
+CON1 - 5.5 x 2.1mm DC Power Supply Female Jack Socket PCB Mount
+
+F1 - 500mA Polyfuse
+
+SW1 - Mini SPDT Slide Switch PCB Mount 2.54mm (0.1")
+
+SW2 - Momentary Tactile Mini Push Button Switch PCB Mounted SPST
+
+JP1,JP2,JP3,JP4,MNT1,MNT2, - 40Pin Single Row Straight Male Pin Header Strip 2.54mm (0.1") (one length will suffice)
+
+R1 - 330 ohm 1/4W 
+
+R2,R3,R4,R5,R6 - 10K ohm 1/4W
+
+D1 - 3mm Green LED
+
+C1,C2,C3,C6 - .1uF 50V 
+
+C4,C5 - 22pf 50V
+
+P1 - 6 Pin Female Tall Straight Stackable Header Connector Socket 2.54mm (0.1") (bend to 90 degrees before soldering)
+
+P4,P5 - 1x14 Single Row 14 Pins PCB Socket Female Header 2.54mm (0.1") 
+
+P6 - 2X40 80Pin Double Row Male Straight Header Pitch Socket Strip 2.54mm (0.1") (one length will suffice)
+
+P7,P8 - 4 Pin Female Tall Straight Stackable Header Connector Socket 2.54mm (0.1")
+
+Q1,Q2,Q3,Q4 - 2N7000 MOSFET TO-92 
+
+U1 - AMS1117-3.3 SOT-223 (surface mount)
+
+IC1 - ATMEGA328P-PU DIP Package
+
+Socket - 28 Pin Narrow Machined Contact DIP Socket 
+
+CR1 - 16MHz crystal HC-49S
+
+Adapter - FT232RL 3.3V 5V FTDI USB to TTL Serial Adapter Module
+
+Jumper - Computer Motherboard/CD/DVD Shunt Jumper 2.54mm (0.1") (Quantity of 4)
+
+Standoff - 3.0 mm Nylon Hex Female To Female 10mm long (Quantity of 2)
+ 
+Screws - 3.0mm Nylon Phillips Head 5mm Long (Quantity of 2)
+
+PCB - Panduino PCB V1.2
