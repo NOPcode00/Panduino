@@ -1,8 +1,8 @@
 # Panduino
 ##An open source Arduino compatible board designed specifically to make breadboarding easier.
 ##Features include:
-##	readily available and low cost parts
-##	socketed ATMEGA328 in a DIP package
+##	*readily available and low cost parts
+##	*socketed ATMEGA328 in a DIP package
 ##	USB or externally powered
 ##	VCC = 5V or 3.3V 
 ##	3.3V VCC eliminates the need for level translators when interfacing to 3.3V devices
@@ -14,6 +14,6 @@
 
 # Like the Panduino?
 ## Why not donate $1 to buy me coffee?
-## Click here -> (http://nopcode00.blogspot.ca/) to make a contribution through paypal.
+## Click here (http://nopcode00.blogspot.ca/"Donate") to make a contribution through paypal.
 
 ##Thanks. 
