@@ -12,8 +12,8 @@
 #####  - 500mA USB fuse
 #####  - works with breadboards that use standard narrow dip spacing
 #####  - utilizes readily available low cost parts
-#####  - open source, designed using KiCad (key-cad) .zip file [here] (https://github.com/NOPcode00/Panduino/tree/master/KiCad)
-#####  - Gerber files availale [here] (https://github.com/NOPcode00/Panduino/tree/master/Gerbers)
+#####  - open source designed in KiCad (key-cad) project files [here] (https://github.com/NOPcode00/Panduino/tree/master/KiCad)
+#####  - Gerber files available [here] (https://github.com/NOPcode00/Panduino/tree/master/Gerbers)
 ##
 ## Like the Panduino?
 ### Why not donate $1 and buy me a coffee?
