@@ -12,6 +12,7 @@
 #####  - 500mA USB fuse
 #####  - works with breadboards that use standard narrow dip spacing
 #####  - utilizes readily available low cost parts
+#####  - open source, designed using KiCad (key-cad)
 ##
 ## Like the Panduino?
 ### Why not donate $1 and buy me a coffee?
