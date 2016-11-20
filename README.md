@@ -1,17 +1,17 @@
 # Panduino
-##An open source Arduino compatible board designed specifically to make breadboarding easier.
+##An open source Arduino compatible board designed specifically for breadboarding.
 ![alt text] (https://github.com/NOPcode00/Panduino/blob/master/Photos/In_Use.PNG)
 ##Features include:
-#####  - utilizes readily available low cost parts
-#####  - socketed ATMEGA328 in a DIP package
 #####  - USB or externally powered
-#####  - VCC = 5V or 3.3V 
+#####  - headers to supply VCC and Ground for breadboard power	
+#####  - VCC of 5V or 3.3V 
 #####  - 3.3V VCC eliminates the need for level translators when interfacing to 3.3V devices
-#####  - works with breadboards that use standard narrow dip spacing
 #####  - all ATMEGA328 pins available for interfacing
+#####  - socketed ATMEGA328 in a DIP package
 #####  - on board Reset switch
 #####  - 500mA USB fuse
-#####  - headers to supply VCC and Ground for breadboard power	
+#####  - works with breadboards that use standard narrow dip spacing
+#####  - utilizes readily available low cost parts
 ##
 ## Like the Panduino?
 ### Why not donate $1 and buy me a coffee?
