@@ -1,5 +1,6 @@
 # Panduino
 ##An open source Arduino compatible board designed specifically to make breadboarding easier.
+![alt text] (https://github.com/NOPcode00/Panduino/blob/master/Photos/In_Use.PNG)
 ##Features include:
 #####  - utilizes readily available low cost parts
 #####  - socketed ATMEGA328 in a DIP package
