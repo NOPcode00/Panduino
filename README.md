@@ -20,3 +20,6 @@
 ### Why not donate $1 and buy me a coffee?
 ### [Click here] (http://nopcode00.blogspot.ca/) to make a contribution through PayPal. 
 ##Thanks. 
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick"> <input type="hidden" name="hosted_button_id" value="E8343S64B6RG2"> <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"> <img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
