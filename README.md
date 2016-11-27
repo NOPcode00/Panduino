@@ -15,7 +15,8 @@
 #####  - open source designed in KiCad ("key-cad") project files [here] (https://github.com/NOPcode00/Panduino/tree/master/KiCad)
 #####  - Gerber files available [here] (https://github.com/NOPcode00/Panduino/tree/master/Gerbers)
 ##
+##Assembly Hints can be found on the [Wiki] (https://github.com/NOPcode00/Panduino/wiki)
 ## Like the Panduino?
 ### Why not donate $1 and buy me a coffee?
-### [Click here] (https://nopcode00.blogspot.ca/) to make a contribution through PayPal. 
+### [Click here] (http://nopcode00.blogspot.ca/) to make a contribution through PayPal. 
 ##Thanks. 
