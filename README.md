@@ -14,6 +14,7 @@
 #####  - utilizes readily available low cost parts
 #####  - open source designed in KiCad ("key-cad") project files [here] (https://github.com/NOPcode00/Panduino/tree/master/KiCad)
 #####  - Gerber files available [here] (https://github.com/NOPcode00/Panduino/tree/master/Gerbers)
+#####  - Bill of Materials [here] (https://github.com/NOPcode00/Panduino/blob/master/Docs/BOM)
 ##
 ##Assembly Hints can be found on the [Wiki] (https://github.com/NOPcode00/Panduino/wiki)
 ## Like the Panduino?
