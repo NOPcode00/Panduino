@@ -1,7 +1,7 @@
 # Panduino
 ## An open source Arduino compatible board for breadboarding.
 ![alt tag](https://github.com/NOPcode00/Panduino/blob/master/Photos/In_Use.PNG)
-##Features include:
+## Features include:
 #####  - USB or externally powered
 #####  - headers to supply VCC and Ground for breadboard power	
 #####  - VCC of 5V or 3.3V 
