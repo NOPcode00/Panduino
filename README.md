@@ -16,7 +16,7 @@
 #####  - Gerber files available [here](https://github.com/NOPcode00/Panduino/tree/master/Gerbers)
 #####  - Bill of Materials [here](https://github.com/NOPcode00/Panduino/blob/master/Docs/BOM)
 ##
-## Bare PCB available on [Tindie](https://www.tindie.com/products/NOPCode00/panduino-pcb/?pt=full_prod_search)
+## PCB's available on [Tindie](https://www.tindie.com/products/NOPCode00/panduino-pcb/?pt=full_prod_search)
 ##
 ## Assembly Hints can be found on the [Wiki](https://github.com/NOPcode00/Panduino/wiki)
 ## Like the Panduino?
