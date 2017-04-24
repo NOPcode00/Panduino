@@ -1,5 +1,5 @@
 # Panduino
-##An open source Arduino compatible board for breadboarding.
+## An open source Arduino compatible board for breadboarding.
 ![alt text] (https://github.com/NOPcode00/Panduino/blob/master/Photos/In_Use.PNG)
 ##Features include:
 #####  - USB or externally powered
@@ -16,9 +16,9 @@
 #####  - Gerber files available [here] (https://github.com/NOPcode00/Panduino/tree/master/Gerbers)
 #####  - Bill of Materials [here] (https://github.com/NOPcode00/Panduino/blob/master/Docs/BOM)
 ##
-##Assembly Hints can be found on the [Wiki] (https://github.com/NOPcode00/Panduino/wiki)
+## Assembly Hints can be found on the [Wiki] (https://github.com/NOPcode00/Panduino/wiki)
 ## Like the Panduino?
 ### Why not donate $1 and buy me a coffee?
 ### [Click here] (http://nopcode00.blogspot.ca/) to make a contribution through PayPal. 
-##Thanks. 
+## Thanks. 
 
